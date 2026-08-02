@@ -14,7 +14,6 @@
 
 ---
 
-
 <div align="center">
 
 ## 👨‍💻 About Me
@@ -157,3 +156,192 @@ Currently, I'm expanding my skills in backend development with **Node.js**, **Ex
 - ☕ Coffee + Music + Code = Perfect Day.
 
 ---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🌍 Wanderlust</h3>
+
+<p align="center">
+A full-stack travel platform where users can explore destinations, book trips, and manage bookings with secure authentication.
+
+<br><br>
+
+<b>Tech:</b> Next.js • React • Tailwind CSS • Better Auth • MongoDB
+
+<br><br>
+
+<a href="https://wanderlust-seven-gules.vercel.app">
+Live Demo
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🛒 SunCart</h3>
+
+<p align="center">
+A modern summer essentials eCommerce platform with a clean UI, authentication, and responsive design.
+
+<br><br>
+
+<b>Tech:</b> Next.js • HeroUI • Tailwind CSS • Better Auth
+
+<br><br>
+
+<a href="#">
+Live Demo
+</a>
+
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🐶 Pet Adoption Platform</h3>
+
+<p align="center">
+A MERN stack platform where users can explore pets and submit adoption requests.
+
+<br><br>
+
+<b>Tech:</b> React • Express.js • MongoDB • Node.js
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💼 Portfolio Website</h3>
+
+<p align="center">
+Personal portfolio website showcasing projects, skills, and experience.
+
+<br><br>
+
+<b>Tech:</b> Next.js • Tailwind CSS
+
+<br><br>
+
+<a href="https://portfolio-nextjs-plum-nine.vercel.app">
+Live Demo
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+# 📊 GitHub Analytics
+
+</div>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalidhasan-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhasan-m&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhasan-m&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=khalidhasan-m&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+# 🐍 Contribution Snake
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/khalidhasan-m/khalidhasan-m/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Activity
+
+</div>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalidhasan-m&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+# 🌐 Connect With Me
+
+</div>
+
+<p align="center">
+
+<a href="https://github.com/khalidhasan-m">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khalidhasanmeskat/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:khalidhasanmeskat@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Let's build something amazing together 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer"/>
+
+</div>
