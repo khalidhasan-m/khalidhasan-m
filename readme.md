@@ -41,7 +41,7 @@ Currently, I'm expanding into backend development with **Node.js** and **Express
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khalidhasanmeskat/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/khalidhasan-m)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:khalidhasanmeskat@gmail.com)
-
+- **Resume:** [View Resume](https://docs.google.com/document/d/1a1Eu3D0ISeeP26XASMMZITUgY1raITydvXa4MmCKLuI/edit?usp=sharing)
 ---
 
 ## 📊 GitHub Stats
@@ -241,4 +241,4 @@ This project is intended for educational and personal portfolio purposes.
 
 - **Live Site:** [wanderlust-seven-gules.vercel.app](https://wanderlust-seven-gules.vercel.app)
 - **Email:** [khalidhasanmeskat@gmail.com](mailto:khalidhasanmeskat@gmail.com)
-- **Resume:** [View Resume](https://docs.google.com/document/d/1a1Eu3D0ISeeP26XASMMZITUgY1raITydvXa4MmCKLuI/edit?usp=sharing)
+
